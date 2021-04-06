@@ -1,2 +1,2 @@
 # Open-AI-Gym-colab
-A collection of colab notebooks for several environments in the Open AI Gym.
+A collection of colab notebooks that implement RL based agents for several environments in Open AI Gym.
